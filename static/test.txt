@@ -1,0 +1,6 @@
+this is static file
+
+superuser:
+username: abhinavgupta
+email address: ag0537269@gmail.com
+password: 123
